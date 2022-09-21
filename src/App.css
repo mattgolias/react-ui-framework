@@ -1,0 +1,21 @@
+#root {
+  max-width: 3840px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: black;
+}
+
+.card {
+  margin-top: 15px;
+  padding: 2em;
+}
+
+
+.read-the-docs {
+  color: #888;
+}
+
+table {
+  border-width: 1px;
+  border-color: white;
+}
